@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
       d = document;
 
       var f = d.createElement('form');
-      f.action = 'http://localhost:5000/checker';
+      f.action = 'http://54.70.196.16/checker';
       f.method = 'post';
       var i = d.createElement('input');
       i.type = 'hidden';
