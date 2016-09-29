@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
 
-  "name": "AdDetector Plugin",
+  "name": "Spotsor extension",
   "description": "This extension will read text on a page and decide if it is advertising",
   "version": "1.0",
 
